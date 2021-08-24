@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Random;
 
-public class funferschritte {
+public class Uebung {
 
     public static void ueb1() {
         for (int i = 1; i < 100; i++) {
